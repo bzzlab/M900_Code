@@ -1,0 +1,9 @@
+[
+  {
+  "uid": 1, "first_name": "Anna", "last_name": "Muster", "age": 16, "gender": "f",
+  "profession": "Mediamatiker", "sem": 1
+  },{
+  "uid": 2, "first_name": "Sara", "last_name": "Smith", "age": 20, "gender": "f",
+  "profession": "Recyclist", "sem": 4
+  }
+]

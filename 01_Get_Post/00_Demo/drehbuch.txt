@@ -1,0 +1,10 @@
+Installations:
+	Install postman
+	Install express
+	Install nodemon
+
+Demos
+	GET-Request
+	POST-Request
+	Different Routes
+	Parameter auslesen

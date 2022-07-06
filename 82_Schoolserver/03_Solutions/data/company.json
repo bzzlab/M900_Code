@@ -1,0 +1,15 @@
+{
+  "company": [{
+    "id": 101, "name": "Firma-X", "contact": "Hans Muster", "phone": "+41 44 123 45 67",
+    "email": "Hans.Muster@firma-x.ch",
+    "url": "http://www.firma-x.ch", "profession": "Mediamatiker, Applikationsentwickler"
+  }, {
+    "id": 102, "name": "Firma-Y", "contact": "Anna Muster", "phone": "+41 44 123 45 67",
+    "email": "Anna.Muster@firma-y.ch",
+    "url": "http://www.firma-y.ch", "profession": "Recyclisten, Montage-Elektriker"
+  }, {
+    "id": 103, "name": "Firma-Z", "contact": "Luzia Muster", "phone": "+41 44 123 55 67",
+    "email": "Anna.Muster@firma-z.ch",
+    "url": "http://www.firma-z.ch", "profession": "Fabe"
+  }]
+}
