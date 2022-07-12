@@ -10,8 +10,15 @@ console.log(`Running at Port ${port}`);
 
 //GET request
 app.get('/api/students', (req,res) =>{
-  //res.send("students not yet implemented!");
   res.send(`${req.method} students not yet implemented!`);
+});
+
+app.get('/bzz/rene', (req,res) =>{
+  res.send(`Hallo Chef!`);
+});
+
+app.get('/bzz/andre', (req,res) =>{
+  res.send(`Bruder vom Chef!`);
 });
 
 //POST request
